@@ -19,3 +19,15 @@ span{
 .right-header{
     margin-top: 5rem;
 }
+.stat-title{
+    font-size: 25px;
+    margin-top: 2rem;
+
+}
+.about-stats{
+    margin-right: 5rem;
+}
+.stat-timeline{
+    margin-top: 2rem;
+    
+}
