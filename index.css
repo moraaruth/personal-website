@@ -1,0 +1,21 @@
+.main-content{
+    background-color:rgb(71, 67, 67);
+    color: white;
+    margin-left: 3rem;
+    font-size: 20px;
+}
+#home{
+    display: grid;
+    margin-top: 3rem;
+    grid-template-columns:repeat(2, 1fr);
+    
+}
+.image{
+    border-radius: 50;
+}
+span{
+    color: rgb(109, 238, 109);
+}
+.right-header{
+    margin-top: 5rem;
+}
