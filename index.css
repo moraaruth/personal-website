@@ -39,8 +39,10 @@ span{
     margin-top: 3rem;
     grid-template-columns:repeat(2, 1fr);
 }
-#contact{
-    display: grid;
-    margin-top: 3rem;
-    grid-template-columns:repeat(2, 1fr);
+
+.right-contact{
+float: right;
+
+margin-right: 7rem;
+
 }
