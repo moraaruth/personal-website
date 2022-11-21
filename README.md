@@ -30,6 +30,8 @@ Ruth Moraa
 
 * CSS - which was used to style the pages incuding the left aside navigation bar
 
+* Javascript - which i used to add toggle when changing from light theme to dark theme.
+
 ## link to live site on GitHub Pages
 
-https://moraaruth.github.io/personal-website/
+* https://moraaruth.github.io/personal-website/
