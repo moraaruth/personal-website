@@ -31,4 +31,4 @@ Ruth Moraa
 * CSS - which was used to style the pages incuding the left aside navigation bar
 
 ## link to live site on GitHub Pages
-
+https://moraaruth.github.io/personal-website/
