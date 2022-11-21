@@ -32,3 +32,4 @@ Ruth Moraa
 
 ## link to live site on GitHub Pages
 
+https://moraaruth.github.io/personal-website/
