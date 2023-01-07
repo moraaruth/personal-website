@@ -33,5 +33,9 @@ Ruth Moraa
 * Javascript - which i used to add toggle when changing from light theme to dark theme.
 
 ## link to live site on GitHub Pages
+<<<<<<< HEAD
 
 * https://moraaruth.github.io/personal-website/
+=======
+https://moraaruth.github.io/personal-website/
+>>>>>>> gh-pages

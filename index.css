@@ -46,6 +46,9 @@ float: right;
 margin-right: 7rem;
 
 }
+.progress{
+    margin-right: 10rem;
+}
 .theme-btn{
     top: 5%;
     right: 3%;
@@ -63,7 +66,4 @@ margin-right: 7rem;
     color: rgb(26, 24, 24);
     background-color:#ffff;
    
-}
-.progress{
-    margin-right: 10rem;
 }
