@@ -62,3 +62,9 @@ span {
   color: rgb(26, 24, 24);
   background-color: #ffff;
 }
+
+.projects {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  
+}
